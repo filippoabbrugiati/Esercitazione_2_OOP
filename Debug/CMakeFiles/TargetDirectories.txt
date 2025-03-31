@@ -1,3 +1,0 @@
-/home/appuser/Data/GIT2/Esercitazione_2_OOP/Debug/CMakeFiles/complex_number.dir
-/home/appuser/Data/GIT2/Esercitazione_2_OOP/Debug/CMakeFiles/edit_cache.dir
-/home/appuser/Data/GIT2/Esercitazione_2_OOP/Debug/CMakeFiles/rebuild_cache.dir
